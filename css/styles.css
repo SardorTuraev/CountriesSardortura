@@ -1,0 +1,45 @@
+
+/* .dark-mode{
+  background-color: #202C36;
+}
+
+.countries__inner-dark{
+  background-color: #2B3844 !important;
+  color: white !important;
+} */
+
+.search-form__input-wrapper {
+  position: relative;
+  z-index: 1;
+}
+
+.search-form__search-icon {
+  position: absolute;
+  z-index: 1;
+  left: 32px;
+  top: calc(50% - 8px);
+}
+
+.search-form__input {
+  padding-left: 74px;
+}
+
+.photo{
+  object-fit: cover;
+  width: 100%;
+}
+
+.countries__name{
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.contries__strong-info{
+  font-weight: 600;
+  color: #111517;
+}
+
+.countries__info{
+  font-weight: 300;
+}

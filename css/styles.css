@@ -43,3 +43,7 @@
 .countries__info{
   font-weight: 300;
 }
+
+.countries-solo__back-icon:hover{
+  text-decoration: underline;
+}
